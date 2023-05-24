@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '55839'
     url: http://www.gutenberg.org/2009/agents/55839
     wikipedia: https://en.wikipedia.org/wiki/Ernest_Ayscoghe_Floyer
+covers:
+- cover_type: archival
+  image_path: 70637-h/images/cover.jpg
 creator:
   author:
     agent_name: Pretyman, Herbert Edward
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '55838'
     url: http://www.gutenberg.org/2009/agents/55838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70637#Journal-of-Herbert-Edward-Pretyman-written-during-his-expedition-to-the-Kittar-Mountains-betw_
 gutenberg_issued: '2023-04-24'
 identifiers:
   gutenberg: '70637'
